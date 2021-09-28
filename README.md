@@ -1,5 +1,5 @@
 This is a sample implementation of a feed loader, in this case, a user's Instagram feed.
-This projected is implemented using Reactjs. 
+This app is implemented using Reactjs. Data fetch is handled by Axios.
 
 ## Available Scripts
 
